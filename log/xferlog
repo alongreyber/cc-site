@@ -1,0 +1,9 @@
+Thu Apr 19 16:38:09 2001 7 216.90.107.247 878 /web/u101/wfp56621/conf/httpd.conf b _ o r wfp56621 ftp 0 * c
+Thu Apr 19 16:38:09 2001 1 216.90.107.247 213 /web/u101/wfp56621/conf/httpsd.conf b _ o r wfp56621 ftp 0 * c
+Thu Apr 19 16:38:12 2001 1 216.90.107.247 27 /web/u101/wfp56621/conf/srm.conf b _ o r wfp56621 ftp 0 * c
+Thu Apr 19 16:39:02 2001 1 216.90.107.247 0 /web/u101/wfp56621/log/access.6 b _ o r wfp56621 ftp 0 * c
+Thu Apr 19 16:39:03 2001 1 216.90.107.247 958 /web/u101/wfp56621/log/access.current-month.gz b _ o r wfp56621 ftp 0 * c
+Thu Apr 19 16:39:03 2001 1 216.90.107.247 17822 /web/u101/wfp56621/log/access.last-month.gz b _ o r wfp56621 ftp 0 * c
+Thu Apr 19 16:39:05 2001 1 216.90.107.247 612 /web/u101/wfp56621/log/ftp.current-month.gz b _ o r wfp56621 ftp 0 * c
+Thu Apr 19 16:39:06 2001 1 216.90.107.247 1054 /web/u101/wfp56621/log/ftp.last-month.gz b _ o r wfp56621 ftp 0 * c
+Thu Apr 19 16:39:07 2001 1 216.90.107.247 0 /web/u101/wfp56621/log/ftp.yesterday b _ o r wfp56621 ftp 0 * c

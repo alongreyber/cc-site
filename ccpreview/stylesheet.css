@@ -1,0 +1,11 @@
+
+td { font-size: 12pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+.subtitle { color: black; font-weight: bold; font-size: 14pt }
+a:link   { color: red }
+a:visited   { color: red }
+a:hover  { color: #f60 }
+a:active  { color: red }
+.title    { color: red; font-weight: bold; font-size: 14pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+.heading  { font-weight: bold; font-size: 12px }
+.footnote  { font-weight: bold }
+.quote   { font-size: 12px; font-family: "Times New Roman", Georgia, Times }

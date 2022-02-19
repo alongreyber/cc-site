@@ -1,0 +1,18 @@
+
+.sub { font-size: 9pt; word-spacing: 0pt; letter-spacing: 0pt }
+.header { font-size: 13pt; letter-spacing: 1pt }
+.bold { font-weight: bold; font-size: 9pt }
+.date { font-style: italic }
+.contact { font-size: 9pt; line-height: 12pt; font-family: Arial; text-align: left; word-spacing: 1px }
+.contact2  { font-size: 8pt; line-height: 12pt; font-family: Arial; text-align: left; word-spacing: 1px }
+body    { font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+td   { font-size: 11px; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+a:link     { color: black }
+a:visited     { color: black }
+a:hover     { color: #cc2229 }
+a:active    { color: #c00 }
+.listbold { font-weight: bold; font-size: 9pt }
+.listitalic { font-style: italic }
+img.map, map area{
+    outline: none;
+}
